@@ -1,16 +1,16 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
-title: Micromouse
-permalink: projects/micromouse
+image: images/leg.jpg
+title: LEGv8
+permalink: projects/Legv8
 # All dates must be YYYY-MM-DD format!
 date: 2015-07-01
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Verilog
+  - ARM
+  - LEGv8
+summary: Wrote a functional LEGv8 Single Cycle Processor in Verilog Code.
 ---
 
 <div class="ui small rounded images">
