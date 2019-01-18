@@ -73,16 +73,16 @@
       "institution": "Naval Nuclear Power Training Command",
       "area": "Nuclear Reactor Operator/Electronics Technician",
       "studyType": "",
-      "startDate": "May 2011",
-      "endDate": "April 2013",
+      "startDate": "MAY 2011",
+      "endDate": "APR 2013",
       "gpa": "3.50",
-      "courses": ["AC/DC Circuits","Digital Circuits","Basic Instrumentation and Control", "Atomic Physics","Heat Transfer and Fluid Flow", "Fluid Power Systems", "Nuclear Physics", "Nuclear Materials", "Radiological Chemistry and Controls"
+      "courses": ["AC/DC Circuits", "Digital Circuits", "Basic Instrumentation and Control", "Atomic Physics", "Heat Transfer and Fluid Flow", "Fluid Power Systems", "Nuclear Physics", "Nuclear Materials", "Radiological Chemistry and Controls"
       ]
     },  
   {
       "institution": "Excelsior College",
-      "area": "Electrical Engineering [Computer Science Focused] (expected Fall 2020)",
-      "studyType": "M.S.",
+      "area": "Nuclear Engineering Technology",
+      "studyType": "B.S.",
       "startDate": "Fall 2017",
       "endDate": "Present",
       "gpa": "3.74",
