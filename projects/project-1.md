@@ -5,7 +5,7 @@ image: images/leg.png
 title: LEGv8
 permalink: projects/Legv8
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2018-11-10
 labels:
   - Verilog
   - ARM
