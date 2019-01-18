@@ -29,14 +29,14 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "CyberSecurity",
       "keywords": [
-        "Raspberry Pi"
       ]
     },
     {
-      "name": "CyberSecurity",
+      "name": "internet of things",
       "keywords": [
+        "Raspberry Pi"
       ]
     },
     {
