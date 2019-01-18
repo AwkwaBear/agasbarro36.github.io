@@ -1,25 +1,29 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/pintos.png
 title: Vacay
-permalink: projects/vacay
+permalink: projects/pintos
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-12-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - C
+  - Pintos
+  - Operating Systems
+summary: A version of the PintOS designed by Stanford completed for EE 468.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pintos.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+Pintos is a simple operating system framework for the 80x86 architecture. 
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Pintos was created in 3 separate project components.
+Project 1: User Program System Calls and interrupts were implemented in order for user programs to interface with the kernel layer.
+          
+Project 2:Thread scheduling and process managements was implemented to keep track of running processes and coordinate    execution
+  
+Project 3: Implementation of Memory Virtualization and Allocation
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
  
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+ 
+Link to GitHub repo: https://github.com/agasbarro36/pintosprojD
