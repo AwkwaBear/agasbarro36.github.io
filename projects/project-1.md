@@ -25,7 +25,7 @@ Since the ARM CPU is little endian, the instruction memory in this project is de
 
 The Data Memory is made up of 31 64-bit values to show that the values could be accessed and stored via the CPU. 
 
-Link to Project GitHub Page (http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+Link to Project GitHub Page (https://github.com/agasbarro36/LEGv8-Single-Cycle).
 
 
 
