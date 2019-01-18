@@ -73,8 +73,8 @@
       "institution": "Naval Nuclear Power Training Command",
       "area": "Electronics Technician",
       "studyType": "Nuclear Reactor Operator",
-      "startDate": "MAY 2011",
-      "endDate": "APR 2013",
+      "startDate": "2011",
+      "endDate": "2013",
       "gpa": "3.50",
       "courses": ["AC/DC Circuits", "Digital Circuits", "Basic Instrumentation and Control", "Atomic Physics", "Heat Transfer and Fluid Flow", "Fluid Power Systems", "Nuclear Physics", "Nuclear Materials", "Radiological Chemistry and Controls"
       ]
@@ -83,8 +83,8 @@
       "institution": "Excelsior College",
       "area": "Nuclear Engineering Technology",
       "studyType": "B.S.",
-      "startDate": "Fall 2017",
-      "endDate": "Present",
+      "startDate": "2015",
+      "endDate": "2017",
       "gpa": "3.74",
       "courses": [ "Calculus 1-2", "Nuclear Materials Science", "Nuclear Capstone","Physics 1-2", "General Chemistry"
       ]
@@ -93,8 +93,8 @@
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Electrical Engineering [Computer Science Focused] (expected Fall 2020)",
       "studyType": "M.S.",
-      "startDate": "Fall-2017",
-      "endDate": "Spring-2020",
+      "startDate": "2017",
+      "endDate": "Present",
       "gpa": "3.74",
       "courses": [ "Calculus 3-4","Digital Systems Design", "Programming for Engineers", "Object Oriented Programming", "Algorithms and Data Structures", "Operating Systems", "Digital Systems and Computer Design", "Software Engineering", "Computer and Network Security", "Network Algorithms"
       ]
@@ -105,8 +105,8 @@
       "company": "US Navy",
       "position": "Reactor Operator Supervisor/Lead Reactor Maintenance Technician",
       "website": "",
-      "startDate": "04-05-2011",
-      "endDate": "04-06-2017",
+      "startDate": "2011",
+      "endDate": "2017",
       "summary": "Performed complex coordinated plant evolutions with other watch team members operating control rods to maintain reactivity within the reactor core. Also performed preventative and corrective maintenance troubleshooting nuclear instrumentation and control equipment. Troubleshooting experience includes pressure, temperature, and neutron detectors along with various microprocessor systems. Served as a maintenance technician and maintenance supervisor operating and maintaining Nuclear Reactor Plant control and safety equipment.Reactor Operator, Shutdown Reactor Operator, Electrical Operator, Reactor Technician, Basic Engineering Qualifications, Auxiliary Electrician Aft, Basic Rad Worker, Primary Valve Operator, Control Point Watch. Conducted over 30 Reactor Start-ups, 25 Reactor shutdowns with 100% efficiency and no issues. Analyzed problems and repaired all microprocessor equipment for reactor monitoring, instrumentation and control equipment. Coordinated and de-conflicted maintenance items across the Engineering Department, ensuring that all were completed in the timeliest manner possible, minimizing impact on plant operations and allowing for the most rapid resumption of power operations possible while maximizing both personnel and reactor safety. Extensive experience operating and maintaining vital Reactor control and safety systems, ensuring correct and safe operation. Analyzed equipment faults using available indications, troubleshooting to component level to ensure correct repair and retests. Maintained complex electronic equipment including alignment, alignment checks and periodic operational checks. Familiarized superiors regarding details, expected indications and responses for the duration of maintenance and repair, including operating restrictions on affected equipment. Accomplished all aspects of equipment repair including determination of and receipt of replacement parts, installation and alignment, and applicable retests.",
       "highlights": [
         "Led team of watchstanders in complex Nuclear Plant evolutions.",
@@ -117,8 +117,8 @@
       "company": "US Navy",
       "position": "SCUBA Diver",
       "website": "",
-      "startDate": "04-05-2011",
-      "endDate": "04-06-2017",
+      "startDate": "2011",
+      "endDate": "2017",
       "summary": "SCUBA diver performing underwater inspections and maintenance on exterior of nuclear submarine",
       "highlights": [
         "PADI Certified Dive Master"
@@ -133,20 +133,20 @@
   "awards": [
     {
       "title": "Outstanding Military Achievement Award",
-      "date": "APR 2013",
+      "date": "2013",
       "awarder": "Naval Nuclear Power Training Unit, Ballston Spa NY",
       "summary": "For exemplary performance of duties and expeditious completion of reactor operator certification training. Awarded for being the first person in the class of 168 students to complete the rigorous certification course.
 "
     },
     {
       "title": "Naval Achievement Medal",
-      "date": "APR 2016",
+      "date": "2016",
       "awarder": "USS Jefferson City",
       "summary": "For acting as lead reactor maintenance technician on performance of a circuit level solder switch replacement on a panel crucial to reactor operation during an intensively time sensitive condition."
     },
     {
       "title": "Naval Achievement Medal",
-      "date": "APR 2017",
+      "date": "2017",
       "awarder": "USS Jefferson City",
       "summary": "For professional achievement while serving as a member of Reactor Controls division on USS Jefferson City(SSN 759) from May 2013 to February 2017. Petty Officer Gasbarro consistently performed his demanding duties in an exemplary and highly professional manner. His expertise as repair parts petty officer ensured that over two million dollars worth of nuclear parts were properly managed and utilized. Additionally, as a reactor maintenance technician, he participated in over 200 corrective and preventative maintenance items. His high level of knowledge and advanced technical skills were vital to the ship's success through two Reactor Safeguards Examinations, a Tactical Readiness Evaluation, two Diving Operational Readiness Assessments, and a Western Pacific Deployment ensuring that USS Jefferson City was always ready when 'any exigence called.' Petty Officer Gasbarros' managerial ability, personal initiative, and unswerving devotion to duty reflected credit upon himself and were in keeping with the highest traditions of the United States Naval Service."
     }
