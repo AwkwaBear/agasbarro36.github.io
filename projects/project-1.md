@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/leg.png
-title: Micromouse
-permalink: projects/micromouse
+title: LEGv8
+permalink: projects/LEGv8
 # All dates must be YYYY-MM-DD format!
-date: 2018
+date: 2018-11-05
 labels:
   - ARM
   - LEGv8
