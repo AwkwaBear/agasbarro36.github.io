@@ -86,15 +86,15 @@
       "startDate": "Fall 2017",
       "endDate": "Present",
       "gpa": "3.74",
-      "courses": [ "Calcus 1-2", "Nuclear Materials Science", "Nuclear Capstone"
+      "courses": [ "Calculus 1-2", "Nuclear Materials Science", "Nuclear Capstone","Physics 1-2", "General Chemistry"
       ]
     },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Electrical Engineering [Computer Science Focused] (expected Fall 2020)",
       "studyType": "M.S.",
-      "startDate": "Fall 2017",
-      "endDate": "Present",
+      "startDate": "Fall-2017",
+      "endDate": "Spring-2020",
       "gpa": "3.74",
       "courses": [ "Calculus 3-4","Digital Systems Design", "Programming for Engineers", "Object Oriented Programming", "Algorithms and Data Structures", "Operating Systems", "Digital Systems and Computer Design", "Software Engineering", "Computer and Network Security", "Network Algorithms"
       ]
