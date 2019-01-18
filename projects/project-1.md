@@ -10,7 +10,7 @@ labels:
   - Verilog
   - ARM
   - LEGv8
-summary: Wrote a functional LEGv8 Single Cycle Processor in Verilog Code.
+summary: Wrote a functional LEGv8 Single Cycle Processor in Verilog Code for EE 361 Computer Systems and Design.
 ---
 
 <div class="ui small rounded images">
