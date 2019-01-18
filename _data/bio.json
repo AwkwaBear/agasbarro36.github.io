@@ -6,7 +6,7 @@
     "email": "agasbarr@hawaii.edu",
     "phone": "",
     "website": "https://agasbarro36.github.io",
-    "summary": "I am studying for a M.S. in Electrical Engineering with a focus in Computer Science at the University of Hawaii, Manoa. I expect to graduate in Fall, 2020.",
+    "summary": "I am studying for a M.S. in Electrical Engineering with a focus in Computer Science at the University of Hawaii, Manoa. I expect to graduate in Spring, 2020.",
     "location": {
       "address": "",
       "postalCode": "96795",
@@ -35,12 +35,12 @@
       ]
     },
     {
-      "name": "data mining",
+      "name": "CyberSecurity",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Quantum Computing",
       "keywords": [
       ]
     }
@@ -61,13 +61,34 @@
       "level": "",
       "keywords": [
         "MacOS",
+        "Windows XP/Vista/7/10",
         "Ubuntu",
-        "Git/GitHub",
-        "g++"
+        "Git/GitHub"
+        
       ]
     }
   ],
   "education": [
+  {
+      "institution": "Naval Nuclear Power Training Command",
+      "area": "Nuclear Reactor Operator/Electronics Technician",
+      "studyType": "",
+      "startDate": "May 2011",
+      "endDate": "April 2013",
+      "gpa": "3.50",
+      "courses": ["AC/DC Circuits","Digital Circuits","Basic Instrumentation and Control", "Atomic Physics","Heat Transfer and Fluid Flow", "Fluid Power Systems", "Nuclear Physics", "Nuclear Materials", "Radiological Chemistry and Controls"
+      ]
+    },  
+  {
+      "institution": "Excelsior College",
+      "area": "Electrical Engineering [Computer Science Focused] (expected Fall 2020)",
+      "studyType": "M.S.",
+      "startDate": "Fall 2017",
+      "endDate": "Present",
+      "gpa": "3.74",
+      "courses": [ "Calcus 1-2", "Nuclear Materials Science", "Nuclear Capstone"
+      ]
+    },
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Electrical Engineering [Computer Science Focused] (expected Fall 2020)",
@@ -75,7 +96,7 @@
       "startDate": "Fall 2017",
       "endDate": "Present",
       "gpa": "3.74",
-      "courses": [
+      "courses": [ "Calculus 3-4","Digital Systems Design", "Programming for Engineers", "Object Oriented Programming", "Algorithms and Data Structures", "Operating Systems", "Digital Systems and Computer Design", "Software Engineering", "Computer and Network Security", "Network Algorithms"
       ]
     }
   ],
@@ -106,43 +127,28 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
+      
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Outstanding Military Achievement Award",
+      "date": "APR 2013",
+      "awarder": "Naval Nuclear Power Training Unit, Ballston Spa NY",
+      "summary": "For exemplary performance of duties and expeditious completion of reactor operator certification training. Awarded for being the first person in the class of 168 students to complete the rigorous certification course.
+"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Naval Achievement Medal",
+      "date": "APR 2016",
+      "awarder": "USS Jefferson City",
+      "summary": "For acting as lead reactor maintenance technician on performance of a circuit level solder switch replacement on a panel crucial to reactor operation during an intensively time sensitive condition."
+    },
+    {
+      "title": "Naval Achievement Medal",
+      "date": "APR 2017",
+      "awarder": "USS Jefferson City",
+      "summary": "For professional achievement while serving as a member of Reactor Controls division on USS Jefferson City(SSN 759) from May 2013 to February 2017. Petty Officer Gasbarro consistently performed his demanding duties in an exemplary and highly professional manner. His expertise as repair parts petty officer ensured that over two million dollars worth of nuclear parts were properly managed and utilized. Additionally, as a reactor maintenance technician, he participated in over 200 corrective and preventative maintenance items. His high level of knowledge and advanced technical skills were vital to the ship's success through two Reactor Safeguards Examinations, a Tactical Readiness Evaluation, two Diving Operational Readiness Assessments, and a Western Pacific Deployment ensuring that USS Jefferson City was always ready when 'any exigence called.' Petty Officer Gasbarros' managerial ability, personal initiative, and unswerving devotion to duty reflected credit upon himself and were in keeping with the highest traditions of the United States Naval Service."
     }
   ],
   "references": [
