@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/leg.jpg
+image: images/leg.png
 title: LEGv8
 permalink: projects/Legv8
 # All dates must be YYYY-MM-DD format!
