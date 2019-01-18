@@ -12,6 +12,7 @@ labels:
   - Verilog
 summary: EE 361 Project: Write a functional LEGv8 Single Cycle Processor in Verilog Code.
 ---
+
 <div class="ui small rounded images">
   <img class="ui image" src="../images/leg.png">
  
