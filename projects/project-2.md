@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/pintos.png
-title: Vacay
+title: PintOS
 permalink: projects/pintos
 # All dates must be YYYY-MM-DD format!
 date: 2018-12-01
