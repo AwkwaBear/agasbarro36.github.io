@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/quiz.jpeg
+image: images/quiz.jpg
 title: Trivia Game
 permalink: projects/TriviaGame
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: A Trivia quiz game created for EE 205 Object Oriented Programming.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/quiz.jpeg">
+<img class="ui medium right floated rounded image" src="../images/quiz.jpg">
 
 Group created a quiz game featuring randomized questions from multiple categories. The game supports 1-4 players and keeps score of who is winning.
 
