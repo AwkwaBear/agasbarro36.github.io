@@ -15,9 +15,7 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
-  <img class="ui image" src="../images/micromouse-robot-2.jpg">
-  <img class="ui image" src="../images/micromouse.jpg">
-  <img class="ui image" src="../images/micromouse-circuit.png">
+
 </div>
 
 This is a functional single cycle (non-pipelined) processor is capable of performing basic arithmetic, logic and data operations. It is based on the ARM 64-bit architecture, with 32 registers each 64-bits wide with instruction lengths of 32-bits written in Verilog Code. 
