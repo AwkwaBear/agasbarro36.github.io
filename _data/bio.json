@@ -71,8 +71,8 @@
   "education": [
   {
       "institution": "Naval Nuclear Power Training Command",
-      "area": "Nuclear Reactor Operator/Electronics Technician",
-      "studyType": "",
+      "area": "Electronics Technician",
+      "studyType": "Nuclear Reactor Operator",
       "startDate": "MAY 2011",
       "endDate": "APR 2013",
       "gpa": "3.50",
