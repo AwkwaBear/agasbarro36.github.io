@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: A Crash Course in JavaScript
 # All dates must be YYYY-MM-DD format!
-date: 2018-10-09
+date: 2019-01-18
 labels:
   - JavaScript
   - Software Engineering
