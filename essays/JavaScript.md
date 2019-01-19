@@ -12,13 +12,20 @@ labels:
 ## Brief History
 JavaScript was created in 1995 under the name "Mocha" by Brendan Eich, a programmer at Netscape. It was developed to be targetted toward web development as a platform. The goal was to use the internet as an application platform. Javascript was initially controversial for many of its features such as:
 
-* automatic semicolon insertion (ASI)
-* automatic type coercion when using common operators like ‘==’
-* lack of block scoping
-* lack of classes
-* lack of dedicated modularisation capability
-* unusual inheritance (prototypical)
+<blockquote>
+  
+-automatic semicolon insertion (ASI)
+  
+-automatic type coercion when using common operators like ‘==’
 
+-lack of block scoping
+
+-lack of classes
+
+-lack of dedicated modularisation capability
+
+-unusual inheritance (prototypical)
+</blockquote>
 These very features are what makes JavaScript such a great language for beginners to learn how to code in.
 
 
