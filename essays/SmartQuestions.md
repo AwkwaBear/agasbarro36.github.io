@@ -29,17 +29,17 @@ This is an example of a bad question. As of the time of this writing, this quest
 (https://stackoverflow.com/questions/54356797/passing-host-ip-address-into-cmd-run-and-ini-files)
 
 <blockquote>
-I am currently trying to deploy Log-rhythm out into our environment that consists of 100+ Servers with the help of SaltStack:
+> I am currently trying to deploy Log-rhythm out into our environment that consists of 100+ Servers with the help of SaltStack:
 
-While I am able to copy files over to a Windows minion with the use of file.managed, I am facing some difficulty in the process getting the IP Address of the minion server and adding this both to the .ini file and cmd.run file. I would like to be able to do this for each minion that is connected to Salt:
+> While I am able to copy files over to a Windows minion with the use of file.managed, I am facing some difficulty in the process getting the IP Address of the minion server and adding this both to the .ini file and cmd.run file. I would like to be able to do this for each minion that is connected to Salt:
 
-While running salt -G 'roles:logging' state.apply. I seem to be getting the following error: Rendering SLS 'base:pacakage-logrhythm' failed: Jinja variable 'dict object' has no attribute 'fqdn_ip4':
+> While running salt -G 'roles:logging' state.apply. I seem to be getting the following error: Rendering SLS 'base:pacakage-logrhythm' failed: Jinja variable 'dict object' has no attribute 'fqdn_ip4':
 
-UPDATE:
+> UPDATE:
 
-I was able to resolve the issue within the ini files: by placing the following ClientAddress={{ grains['fqdn_ip4'][0] }}
+> I was able to resolve the issue within the ini files: by placing the following ClientAddress={{ grains['fqdn_ip4'][0] }}
 
-currently having issues with passing grains into the cmd.run section of the program
+> currently having issues with passing grains into the cmd.run section of the program
 </blockquote>
 
 ```
