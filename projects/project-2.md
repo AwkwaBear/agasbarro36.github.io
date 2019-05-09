@@ -15,7 +15,7 @@ summary: A version of the PintOS designed by Stanford completed for EE 468.
 
 <img class="ui medium right floated rounded image" src="../images/pintos.png">
 
-Pintos is a simple operating system framework for the 80x86 architecture. 
+Pintos is a simple operating system framework for the 80x86 architecture. The project was completed as part of an Operating Systems course to showcase the ability to implement the core functions of an operating system kernel in C.
 
 Pintos was created in 3 separate project components.
 
@@ -27,4 +27,4 @@ Project 3: Implementation of Memory Virtualization and Allocation
 
  
  
-Link to GitHub repo: (https://github.com/agasbarro36/pintosprojD)
+[Link to GitHub repo](https://github.com/agasbarro36/pintosprojD)
