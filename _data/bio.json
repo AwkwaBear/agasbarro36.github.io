@@ -35,17 +35,17 @@ Prior military experience: 2 years in training and 4 years as a Reactor Operator
   },
   "interests": [
     {
-      "name": "CyberSecurity",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "Raspberry Pi",
-      "keywords": [
-      ]
-    },
-    {
       "name": "Quantum Computing",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "2D Materials",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "AI/ML",
       "keywords": [
       ]
     }
@@ -57,8 +57,13 @@ Prior military experience: 2 years in training and 4 years as a Reactor Operator
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
-        "Javascript"
+        "Javascript",
+        "Python",
+        "CUDA",
+        "REACT"
+        
       ]
     },
     {
